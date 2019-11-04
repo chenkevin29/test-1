@@ -1,0 +1,15 @@
+.row {
+    margin: 100px auto !important; 
+}
+
+.align-right {
+    text-align: right;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.align-center {
+    text-align: center;
+}
