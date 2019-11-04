@@ -16,7 +16,7 @@ class Content extends React.Component {
 
     handleSubmit = () => {
         if (this.state.userName == "") {
-            alert("kosong");
+            alert("kosong1");
             return
         }else{
             alert("nama = " + this.state.userName)
