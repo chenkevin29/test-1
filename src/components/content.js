@@ -19,7 +19,7 @@ class Content extends React.Component {
             alert("kosong");
             return
         }else{
-            alert("nama = " + this.state.userName)
+            alert("nama1 = " + this.state.userName)
             return
         }
     }
